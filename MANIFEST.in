@@ -1,0 +1,3 @@
+graft test-lewagon-data-tryme
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  test-lewagon-data-tryme/jupy *
