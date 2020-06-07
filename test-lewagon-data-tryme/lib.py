@@ -10,6 +10,9 @@ import datetime
 pd.set_option('display.width', 200)
 
 
+def try_me():
+    return 'this is how we do it'
+
 def clean_data(data):
     """ clean data
     """
